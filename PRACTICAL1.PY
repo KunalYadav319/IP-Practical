@@ -1,6 +1,6 @@
 # 1
 
-name = "Rahul"
+name = "Kunal"
 age = 18
 marks = 85.5
 city = "Mumbai"
